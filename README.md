@@ -11,13 +11,8 @@
 ### :mailbox: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ZachariasAthanasios-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athanasios-zacharias-41684b212/)
-[![Instagram Badge](https://img.shields.io/badge/-@zacharias_thanos-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/Zacharias_Thanos/)
-[![Twitter Badge](https://img.shields.io/badge/-@Zacharias_Th-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Zacharias_Th)
 [![Mail Badge](https://img.shields.io/badge/-zachariasathanasioss-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zachariasathanasioss@gmail.com)
 
-[instagram]: https://www.instagram.com/zacharias_thanos/
-[youtube]: https://www.youtube.com/channel/UCtaXxA_HPiooNEckxSHQzrg
-[twitter]: https://twitter.com/Zacharias_Th
 [linkedin]: https://www.linkedin.com/in/athanasios-zacharias-41684b212/
 
 
