@@ -4,7 +4,7 @@
 <hr>
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Creating more open source projects.
+- 🥅 2022 Goals: Creating more open source projects.
 - 📫 How to reach me: zachariasathanasioss@gmail.com
 - ⚡ Fun fact: I love Netflix.
 
