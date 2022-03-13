@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Creating more open source projects.
 - 📫 How to reach me: zachariasathanasioss@gmail.com
-- ⚡ Fun fact: I love Netflix.
 
 ### :mailbox: Connect with me:
 
