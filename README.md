@@ -11,6 +11,8 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athanasios-zacharias)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zacharias_thanos)
+[![CodePen](https://img.shields.io/badge/CodePen-%23323330.svg?logo=codepen&logoColor=white)](https://codepen.io/ThanosZacharias)
+[![CodePen](https://img.shields.io/badge/Gmail-%23FF2D20.svg?logo=gmail&logoColor=white)](mailto:zachariasthanoss@gmail.com)
 
 ## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
