@@ -3,6 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ZachariasAthanasios&icon=2&color=1)](https://visitcount.itsvg.in)
 
+- 🔭 I’m currently working on [ToastedWeb](https://www.toastedweb.gr).
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Creating more open source projects.
 - 📫 How to reach me: zachariasthanoss@gmail.com
