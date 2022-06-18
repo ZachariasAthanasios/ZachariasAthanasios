@@ -1,7 +1,7 @@
 ### Hi there, I'm Zacharias Thanos! 👋
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=ZachariasAthanasios&icon=2&color=1)]
+![](https://visitcount.itsvg.in/api?id=ZachariasAthanasios&icon=2&color=1)
 
 - 🔭 I’m currently working on [ToastedWeb](https://www.toastedweb.gr).
 - 🌱 I’m currently learning everything 🤣
