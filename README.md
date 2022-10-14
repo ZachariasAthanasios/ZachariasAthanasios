@@ -32,6 +32,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ![WordPress](https://img.shields.io/badge/wordpress-%2302569B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/woocommerce-hotpink.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/vs%20code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
