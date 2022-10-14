@@ -40,7 +40,6 @@
 
 ![GIT](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ZachariasAthanasios&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
