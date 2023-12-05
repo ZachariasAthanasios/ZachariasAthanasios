@@ -12,9 +12,9 @@
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://thanoszacharias.com)
 [![DevNotes](https://img.shields.io/badge/MyBlog-%230077B5.svg?logo=Blog&logoColor=white)](https://devnotes.gr)
 [![Mail](https://img.shields.io/badge/Mail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:info@thanoszacharias.gr)
-[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Thanos_Zacharias)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athanasios-zacharias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athanasios-zachariass)
 [![Behance](https://img.shields.io/badge/Behance-%230077B5.svg?logo=behance&logoColor=white)](https://www.behance.net/thanoszacharias)
+[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Thanos_Zacharias)
 
 
 ## 💻Tech Stack
