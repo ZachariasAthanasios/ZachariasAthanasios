@@ -7,7 +7,6 @@
 
 ## 💻 About Me
 <ul>
-  <li>🚀 Founder of <a target="_blank" href="https://ctrlstudio.gr/">Ctrl Studios</a>, where we breathe life into websites and offer a spectrum of services including graphic design, digital marketing, social media management, app development, and more.</li>
   <li>💻 Web Developer with a focus on creating seamless and visually appealing web experiences.</li>
   <li>📱 Learning Flutter to explore the realm of mobile app development.</li>
 </ul>
