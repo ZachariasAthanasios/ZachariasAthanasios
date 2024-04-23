@@ -36,7 +36,6 @@
 
 ## 🌐 Connect with Me
 [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-%230077B5.svg?logo=website&logoColor=white)](https://thanoszacharias.com)
-[![DevNotes](https://img.shields.io/badge/My%20Blog-%230077B5.svg?logo=blog&logoColor=white)](https://devnotes.gr)
 [![Mail](https://img.shields.io/badge/Email%20Me-%230077B5.svg?logo=gmail&logoColor=white)](mailto:info@thanoszacharias.gr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanos-zachariass/)
 [![Behance](https://img.shields.io/badge/Behance-%230077B5.svg?logo=behance&logoColor=white)](https://www.behance.net/thanoszacharias)
